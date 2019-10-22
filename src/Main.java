@@ -10,6 +10,7 @@ public class Main
         String streetName = keyboard.next();
         String streetType = keyboard.next();
         String city = keyboard.next();
+
         System.out.print(firstInitial + " " + lastName + " " + houseNumber + " ");
         System.out.println(streetName + " " + streetType + " " + city);
     }
